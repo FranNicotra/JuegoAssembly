@@ -1,0 +1,4 @@
+Compilación, Instalación y Ejecución
+1) Para compilar y ejecutar el juego es necesario copiar el contenido de la carpeta JUEGO a la carpeta TASM.
+2) Abrir el DOSbox y escribir en la consola: prg2
+El .bat llamado prg2 contendrá los comandos necesarios para compilar el programa.
